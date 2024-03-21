@@ -21,4 +21,3 @@ class Point
         System.Console.Write(sym);
     }
 }
- 
